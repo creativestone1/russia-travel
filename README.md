@@ -7,9 +7,7 @@
 **Стэк технологий**
 * HTML5
 * CSS3
-* БЭМ
 * Flexbox и Grid Layout верстка
-* Адаптивная верстка для различных размеров экрана устройства
 
 **Figma**
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
